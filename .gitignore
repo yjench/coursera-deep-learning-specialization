@@ -1,2 +1,5 @@
 # Lecture slides and personal notes
 *.pdf
+
+# Misc
+.ipynb_checkpoints
