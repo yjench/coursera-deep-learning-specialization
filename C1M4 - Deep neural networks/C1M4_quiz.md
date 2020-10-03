@@ -40,19 +40,19 @@
 
     
 
-5. Assume we store the values for n^[l] in an array called layers, as follows: layer_dims = [n_x, 4,3,2,1]. So layer 1 has four hidden units, layer 2 has 3 hidden units and so on. Which of the following for-loops will allow you to initialize the parameters for the model?
+5. Assume we store the values for n^[l] in an array called layers, as follows: layers = [n_x, 4,3,2,1]. So layer 1 has four hidden units, layer 2 has 3 hidden units and so on. Which of the following for-loops will allow you to initialize the parameters for the model?
 
     ```
-    for(i in range(1, len(layer_dims))):
+    for(i in range(1, len(layers))):
         parameter[‘W’ + str(i)] = np.random.randn(layers[i], layers[i - 1])) * 0.01
         parameter[‘b’ + str(i)] = np.random.randn(layers[i], 1) * 0.01
     ```
 
+    
+
 6. Consider the following neural network.
 
     - The number of layers L is 4. The number of hidden layers is 3.
-
-    > Note: The input layer (L^[0]) does not count.
 
     > As seen in lecture, the number of layers is counted as the number of hidden layers + 1. The input and output layers are not counted as hidden layers.
 
@@ -95,6 +95,6 @@
 
 10. Whereas the previous question used a specific network, in the general case what is the dimension of W^[l], the weight matrix associated with layer l?
 
-   - W^[l] has shape (n^[l],n^[l−1])
+  - W^[l] has shape (n^[l],n^[l−1])
 
-   > Note: See [this image](https://user-images.githubusercontent.com/14886380/29200515-7fdd1548-7e88-11e7-9d05-0878fe96bcfa.png) for general formulas.
+  > Note: See [this image](https://user-images.githubusercontent.com/14886380/29200515-7fdd1548-7e88-11e7-9d05-0878fe96bcfa.png) for general formulas.
