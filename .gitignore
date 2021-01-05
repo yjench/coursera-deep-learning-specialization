@@ -1,5 +1,8 @@
-# Lecture slides and personal notes
-*.pdf
+# Bytecode-compiled / optimized bytecode-compiled files
+__pycache__/
 
-# Misc
+# Jupyter Notebook
 .ipynb_checkpoints
+
+# Pdf files
+*.pdf
