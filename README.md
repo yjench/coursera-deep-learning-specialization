@@ -4,7 +4,7 @@ This repo contains my coursework for [Deep Learning Specialization](https://www.
 
 This specialization covers a broad range of topics of deep learning by using a hands-on approach: it explains the basic concepts, gives intuition on why they work, and let learners practice what they learn through a series of programming assignments.
 
-The assignments use Python and the Jupyter Notebook environment. For grading purposes, most of the programs is written in the functional programming style. In the first half of the assignments, neural networks are coded up from scratch using NumPy. In the second half of the assignments, Keras and TensorFlow (version 1) are used to tackle more complex NN architectures. Other packages used include SciPy, Matplotlib, PIL and h5py.
+The assignments use Python and the Jupyter Notebook environment. For grading purposes, most of the programs is written in the functional programming style. In the first half of the assignments, neural networks are coded up from scratch using NumPy. In the second half of the assignments, Keras and TensorFlow are used to tackle more complex NN architectures. Other packages used include SciPy, Matplotlib, PIL and h5py.
 
 
 
@@ -34,9 +34,21 @@ This course covers standard fully connected, feedforward neural networks, with a
 
 
 
-**Course 2. Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization**
+### Course 2. Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization
 
-This course covers techniques and practical tips to train deep neural networks, and diagonose bias/variance problems, and improve performance.
+This course covers practical techniques that improve the training process and model performance of deep neural networks, such as initialization schemes, batch normalization, dropout regularization, and variants of batch gradient descent. It also touches upon multi-class classification and TensorFlow (version 1).
 
- regularization, vriances of batch gradient descent, 
+* [**M1. Practical aspects of deep learning**](https://github.com/yjench/coursera-deep-learning-specialization/tree/master/C2M1%20-%20Practical%20aspects%20of%20deep%20learning)
+  * [PA1. Initialization](https://github.com/yjench/coursera-deep-learning-specialization/blob/master/C2M1%20-%20Practical%20aspects%20of%20deep%20learning/Initialization/Initialization.ipynb)
+  * [PA2. Regularization](https://github.com/yjench/coursera-deep-learning-specialization/blob/master/C2M1%20-%20Practical%20aspects%20of%20deep%20learning/Regularization/Regularization_v2a.ipynb)
+  * [PA3. Gradient checking](https://github.com/yjench/coursera-deep-learning-specialization/blob/master/C2M1%20-%20Practical%20aspects%20of%20deep%20learning/Gradient%20checking/Gradient%20Checking%20v1.ipynb)
+* [**M2. Optimization algorithms**](https://github.com/yjench/coursera-deep-learning-specialization/tree/master/C2M2%20-%20Optimization%20algorithms)
+  * [PA1. Optimization methods](https://github.com/yjench/coursera-deep-learning-specialization/blob/master/C2M2%20-%20Optimization%20algorithms/Optimization%20methods/Optimization_methods_v1b.ipynb)
+
+* [**M3. Hyperparameter tuning, regularization and optimization**](https://github.com/yjench/coursera-deep-learning-specialization/tree/master/C2M3%20-%20Hyperparameter%20tuning%2C%20regularization%20and%20optimization)
+  * [PA1. TensorFlow](https://github.com/yjench/coursera-deep-learning-specialization/blob/master/C2M3%20-%20Hyperparameter%20tuning%2C%20regularization%20and%20optimization/TensorFlow/TensorFlow_Tutorial_v3b.ipynb)
+
+
+
+## Course 3.
 
