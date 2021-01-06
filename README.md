@@ -16,9 +16,9 @@ While I try to keep this repo as low-profile as possible, it has been made tempo
 
 ## Contents
 
-The specialization is divided into 5 courses, each of which contains 2 - 4 modules. The folder for each module (M) includes my solutions for the quiz and programming assignment(s) (PA).
+The specialization is divided into 5 courses (abbrev. C), each of which contains 2 - 4 modules (M). The folder for each module includes my solutions for the quiz and programming assignment(s) (PA).
 
-### Course 1. Neural Networks and Deep Learning
+### C1. Neural Networks and Deep Learning
 
 This course covers standard fully connected, feedforward neural networks, with a focus on binary classification applications. NumPy and vectorization are also introduced.
 
@@ -34,9 +34,9 @@ This course covers standard fully connected, feedforward neural networks, with a
 
 
 
-### Course 2. Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization
+### C2. Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization
 
-This course covers techniques that improve the training process and model performance of deep neural networks, such as initialization schemes, batch normalization, regularization methods, and variants of batch gradient descent. It also touches upon multi-class classification and TensorFlow 1.
+This course teaches techniques that improve the training process and model performance of deep neural networks, such as initialization schemes, batch normalization, regularization methods, and variants of batch gradient descent. It also touches upon multi-class classification and TensorFlow 1.
 
 * [**M1. Practical aspects of deep learning**](https://github.com/yjench/coursera-deep-learning-specialization/tree/master/C2M1%20-%20Practical%20aspects%20of%20deep%20learning)
   * [PA1. Initialization](https://github.com/yjench/coursera-deep-learning-specialization/blob/master/C2M1%20-%20Practical%20aspects%20of%20deep%20learning/Initialization/Initialization.ipynb)
@@ -46,14 +46,34 @@ This course covers techniques that improve the training process and model perfor
   * [PA1. Optimization methods](https://github.com/yjench/coursera-deep-learning-specialization/blob/master/C2M2%20-%20Optimization%20algorithms/Optimization%20methods/Optimization_methods_v1b.ipynb)
 
 * [**M3. Hyperparameter tuning, regularization and optimization**](https://github.com/yjench/coursera-deep-learning-specialization/tree/master/C2M3%20-%20Hyperparameter%20tuning%2C%20regularization%20and%20optimization)
-  * [PA1. TensorFlow](https://github.com/yjench/coursera-deep-learning-specialization/blob/master/C2M3%20-%20Hyperparameter%20tuning%2C%20regularization%20and%20optimization/TensorFlow/TensorFlow_Tutorial_v3b.ipynb)
+  * [PA1. TensorFlow tutorial](https://github.com/yjench/coursera-deep-learning-specialization/blob/master/C2M3%20-%20Hyperparameter%20tuning%2C%20regularization%20and%20optimization/TensorFlow/TensorFlow_Tutorial_v3b.ipynb)
 
 
 
-### Course 3. Structuring Machine Learning Projects
+### C3. Structuring Machine Learning Projects
 
 This standalone course covers practical tips on how to build and ship a successful machine learning/deep learning system. Topics include error evaluation and analysis, ways to address mismatched data distributions, transfer learning, multi-task learning and end-to-end deep learning, etc.
 
 * [**M1. Machine learning strategy 1**](https://github.com/yjench/coursera-deep-learning-specialization/tree/master/C3M1%20-%20ML%20strategy%201)
 * [**M2. Machine learning strategy 2**](https://github.com/yjench/coursera-deep-learning-specialization/tree/master/C3M2%20-%20ML%20strategy%202)
+
+
+
+### C4. Convolutional Neural Networks
+
+This course shows how to build convolutional neural networks and apply them for image or video data analysis. Topics include classic convolutional neural network architectures (e.g., AlexNet, VGG) and recent variations (e.g., ResNet, Inception), how to utilize pre-trained weights for transfer learning, and applications such as objection detection (YOLO), face recognition (FaceNet) and neural style transfer. It also touches upon Keras.
+
+* [**M1. Foundations of convolutional neural networks**](https://github.com/yjench/coursera-deep-learning-specialization/tree/master/C4M1%20-%20Foundations%20of%20convolutional%20neural%20networks)
+  * [PA1. Convolution model - step by step](https://github.com/yjench/coursera-deep-learning-specialization/blob/master/C4M1%20-%20Foundations%20of%20convolutional%20neural%20networks/Convolution%20model/Convolution_model_Step_by_Step_v2a.ipynb)
+  * [PA2. Convolution model application](https://github.com/yjench/coursera-deep-learning-specialization/blob/master/C4M1%20-%20Foundations%20of%20convolutional%20neural%20networks/Convolution%20model/Convolution_model_Application_v1a.ipynb)
+* [**M2. Deep convolutional models**](https://github.com/yjench/coursera-deep-learning-specialization/tree/master/C4M2%20-%20Deep%20convolutional%20models)
+  * [PA1. Keras tutorial](https://github.com/yjench/coursera-deep-learning-specialization/blob/master/C4M2%20-%20Deep%20convolutional%20models/Keras%20tutorial/Keras_Tutorial_v2a.ipynb)
+  * [PA2. Residual networks](https://github.com/yjench/coursera-deep-learning-specialization/blob/master/C4M2%20-%20Deep%20convolutional%20models/Residual%20networks/Residual_Networks_v2a.ipynb)
+* [**M3. Object detection**](https://github.com/yjench/coursera-deep-learning-specialization/tree/master/C4M3%20-%20Object%20detection)
+  * [PA1. Car detection for autonomous driving](https://github.com/yjench/coursera-deep-learning-specialization/blob/master/C4M3%20-%20Object%20detection/Car%20detection%20for%20autonomous%20driving/Autonomous_driving_application_Car_detection_v3a.ipynb)
+* [**M4. Face recognition and neural style transfer**](https://github.com/yjench/coursera-deep-learning-specialization/tree/master/C4M4%20-%20Face%20recognition%20%26%20neural%20style%20transfer)
+  * [PA1. Neural style transfer]()
+  * [PA2. Face recognition]()
+
+
 
