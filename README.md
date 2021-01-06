@@ -24,10 +24,11 @@ This course covers standard fully connected, feedforward neural networks, with a
 
 * **M1. Introduction to deep learning**
 * **M2. Basics of neural network programming**
-  * [PA1. Python basics with Numpy](C1M2 - Basics of neural network programming/Python basics with Numpy/Python_Basics_With_Numpy_v3a.ipynb)
+  * [PA1. Python basics with Numpy](https://github.com/yjench/coursera-deep-learning-specialization/blob/master/C1M2%20-%20Basics%20of%20neural%20network%20programming/Python%20basics%20with%20Numpy/Python_Basics_With_Numpy_v3a.ipynb)
   * [PA2. Logistic regression as a neural network](C1M2 - Basics of neural network programming/Logistic regression as a neural network/Logistic_Regression_with_a_Neural_Network_mindset_v6a.ipynb)
 * **M3. Shallow neural networks**
-  * PA
+  * C1M2 - Basics of neural network programming/Python basics with Numpy/Python_Basics_With_Numpy_v3a.ipynb
+  * https://github.com/yjench/coursera-deep-learning-specialization/blob/master/C1M2%20-%20Basics%20of%20neural%20network%20programming/Python%20basics%20with%20Numpy/Python_Basics_With_Numpy_v3a.ipynb
 * **Module 4. Deep neural networks**
 
 
