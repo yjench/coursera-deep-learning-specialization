@@ -71,9 +71,37 @@ This course shows how to build convolutional neural networks and apply them for 
   * [PA2. Residual networks](https://github.com/yjench/coursera-deep-learning-specialization/blob/master/C4M2%20-%20Deep%20convolutional%20models/Residual%20networks/Residual_Networks_v2a.ipynb)
 * [**M3. Object detection**](https://github.com/yjench/coursera-deep-learning-specialization/tree/master/C4M3%20-%20Object%20detection)
   * [PA1. Car detection for autonomous driving](https://github.com/yjench/coursera-deep-learning-specialization/blob/master/C4M3%20-%20Object%20detection/Car%20detection%20for%20autonomous%20driving/Autonomous_driving_application_Car_detection_v3a.ipynb)
-* [**M4. Face recognition and neural style transfer**](https://github.com/yjench/coursera-deep-learning-specialization/tree/master/C4M4%20-%20Face%20recognition%20%26%20neural%20style%20transfer)
-  * [PA1. Neural style transfer]()
-  * [PA2. Face recognition]()
+* [**M4. Face recognition & neural style transfer**](https://github.com/yjench/coursera-deep-learning-specialization/tree/master/C4M4%20-%20Face%20recognition%20%26%20neural%20style%20transfer)
+  * [PA1. Neural style transfer](https://github.com/yjench/coursera-deep-learning-specialization/blob/master/C4M4%20-%20Face%20recognition%20%26%20neural%20style%20transfer/Neural%20style%20transfer/Art_Generation_with_Neural_Style_Transfer_v3a.ipynb)
+  * [PA2. Face recognition](https://github.com/yjench/coursera-deep-learning-specialization/blob/master/C4M4%20-%20Face%20recognition%20%26%20neural%20style%20transfer/Face%20recognition/Face_Recognition_v3a.ipynb)
 
 
 
+### C5. Sequence Models
+
+As the final course of the specialization, this course introduces ...
+
+how to construct recurrent neural networks and apply them for analyzing sequence data (e.g., natural language, audio).
+
+common architectures (e.g. GRUs, LSTMs)
+
+natural language problems (text synthesis)
+
+machine translation
+
+audio applicatins (speech recognition, music synthesis)
+
+applications: speech recognition, machine translation, natural language understanding/processing. 
+
+* [**M1. Recurrent neural networks**](https://github.com/yjench/coursera-deep-learning-specialization/tree/master/C5M1%20-%20Recurrent%20neural%20networks)
+  * [PA1. Building a recurrent neural network - step by step](https://github.com/yjench/coursera-deep-learning-specialization/blob/master/C5M1%20-%20Recurrent%20neural%20networks/Building%20a%20recurrent%20neural%20network%20-%20step%20by%20step/Building_a_Recurrent_Neural_Network_Step_by_Step_v3b.ipynb)
+  * [PA2. Dinosaur Island - character-level language model](https://github.com/yjench/coursera-deep-learning-specialization/blob/master/C5M1%20-%20Recurrent%20neural%20networks/Dinosaur%20Island%20-%20character-level%20language%20model/Dinosaurus_Island_Character_level_language_model_final_v3b.ipynb)
+  * [PA3. Jazz improvisation with LSTM](https://github.com/yjench/coursera-deep-learning-specialization/blob/master/C5M1%20-%20Recurrent%20neural%20networks/Jazz%20improvisation%20with%20LSTM/Improvise_a_Jazz_Solo_with_an_LSTM_Network_v3a.ipynb)
+
+* [**M2. Natural language processing & word Embeddings**](https://github.com/yjench/coursera-deep-learning-specialization/tree/master/C5M2-%20Natural%20language%20processing%20%26%20word%20Embeddings)
+  * [PA1. Word vector representation](https://github.com/yjench/coursera-deep-learning-specialization/tree/master/C5M2-%20Natural%20language%20processing%20%26%20word%20Embeddings/Word%20vector%20representation)
+  * [PA2. Emojify](https://github.com/yjench/coursera-deep-learning-specialization/tree/master/C5M2-%20Natural%20language%20processing%20%26%20word%20Embeddings/Emojify)
+
+* [**M3. Sequence models & attention mechanism**](https://github.com/yjench/coursera-deep-learning-specialization/tree/master/C5M3%20-%20Sequence%20models%20%26%20attention%20mechanism)
+  * [PA1. Machine translation](https://github.com/yjench/coursera-deep-learning-specialization/blob/master/C5M3%20-%20Sequence%20models%20%26%20attention%20mechanism/Machine%20translation/Neural_machine_translation_with_attention_v4a.ipynb)
+  * [PA2. Trigger word detection](https://github.com/yjench/coursera-deep-learning-specialization/blob/master/C5M3%20-%20Sequence%20models%20%26%20attention%20mechanism/Trigger%20word%20detection/Trigger_word_detection_v1a.ipynb)
