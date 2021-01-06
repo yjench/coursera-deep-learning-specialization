@@ -1,8 +1,13 @@
-# Bytecode-compiled / optimized bytecode-compiled files
+# Byte-compiled / optimized / DLL files
 __pycache__/
+*.py[cod]
+*$py.class
 
 # Jupyter Notebook
 .ipynb_checkpoints
 
-# Pdf files
+# macOS
+.DS_store
+
+# PDF files
 *.pdf
