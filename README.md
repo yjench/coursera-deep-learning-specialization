@@ -79,19 +79,7 @@ This course shows how to build convolutional neural networks and apply them for 
 
 ### C5. Sequence Models
 
-As the final course of the specialization, this course introduces ...
-
-how to construct recurrent neural networks and apply them for analyzing sequence data (e.g., natural language, audio).
-
-common architectures (e.g. GRUs, LSTMs)
-
-natural language problems (text synthesis)
-
-machine translation
-
-audio applicatins (speech recognition, music synthesis)
-
-applications: speech recognition, machine translation, natural language understanding/processing. 
+This course introduces how to build recurrent neural networks and apply them for analyzing sequence data such as audio and text. The theory part includes common recurrent neural network units (e.g., GRUs, LSTMs) and advanced architectures (e.g., deep RNNs, attention models). The application part covers natural-language processing tasks (e.g., language modeling, machine translation) as well as audio-related problems (e.g., speech recognition, music generation).
 
 * [**M1. Recurrent neural networks**](https://github.com/yjench/coursera-deep-learning-specialization/tree/master/C5M1%20-%20Recurrent%20neural%20networks)
   * [PA1. Building a recurrent neural network - step by step](https://github.com/yjench/coursera-deep-learning-specialization/blob/master/C5M1%20-%20Recurrent%20neural%20networks/Building%20a%20recurrent%20neural%20network%20-%20step%20by%20step/Building_a_Recurrent_Neural_Network_Step_by_Step_v3b.ipynb)
