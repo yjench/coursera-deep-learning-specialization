@@ -18,7 +18,7 @@ While I try to keep this repo as low-profile as possible, it has been made tempo
 
 The specialization is divided into 5 courses, each of which contains 2 - 4 modules. The folder for each module (M) includes my solutions for the quiz and programming assignment(s) (PA).
 
-**Course 1. Neural Networks and Deep Learning**
+### Course 1. Neural Networks and Deep Learning
 
 This course covers standard fully connected, feedforward neural networks, with a focus on binary classification applications. NumPy and vectorization are also introduced.
 
@@ -27,10 +27,10 @@ This course covers standard fully connected, feedforward neural networks, with a
   * [PA1. Python basics with Numpy](https://github.com/yjench/coursera-deep-learning-specialization/blob/master/C1M2%20-%20Basics%20of%20neural%20network%20programming/Python%20basics%20with%20Numpy/Python_Basics_With_Numpy_v3a.ipynb)
   * [PA2. Logistic regression as a neural network](https://github.com/yjench/coursera-deep-learning-specialization/blob/master/C1M2%20-%20Basics%20of%20neural%20network%20programming/Logistic%20regression%20as%20a%20neural%20network/Logistic_Regression_with_a_Neural_Network_mindset_v6a.ipynb)
 * [**M3. Shallow neural networks**](https://github.com/yjench/coursera-deep-learning-specialization/tree/master/C1M3%20-%20Shallow%20neural%20networks)
-  * [PA1. Planar data classification with one hidden layer](https://github.com/yjench/coursera-deep-learning-specialization/tree/master/C1M3 - Shallow neural networks/Planar data classification with one hidden layer)
+  * [PA1. Planar data classification with one hidden layer](https://github.com/yjench/coursera-deep-learning-specialization/blob/master/C1M3%20-%20Shallow%20neural%20networks/Planar%20data%20classification%20with%20one%20hidden%20layer/Planar_data_classification_with_onehidden_layer_v6c.ipynb)
 * [**M4. Deep neural networks**](https://github.com/yjench/coursera-deep-learning-specialization/tree/master/C1M4%20-%20Deep%20neural%20networks)
-  * [PA1. Building your deep neural network - step by step](https://github.com/yjench/coursera-deep-learning-specialization/tree/master/C1M4 - Deep neural networks/Building your deep neural network - step by step)
-  * [PA2. Deep neural network application](https://github.com/yjench/coursera-deep-learning-specialization/tree/master/C1M4 - Deep neural networks/Deep neural network application)
+  * [PA1. Building your deep neural network - step by step](https://github.com/yjench/coursera-deep-learning-specialization/blob/master/C1M4%20-%20Deep%20neural%20networks/Building%20your%20deep%20neural%20network%20-%20step%20by%20step/Building_your_Deep_Neural_Network_Step_by_Step_v8a.ipynb)
+  * [PA2. Deep neural network application](https://github.com/yjench/coursera-deep-learning-specialization/blob/master/C1M4%20-%20Deep%20neural%20networks/Deep%20neural%20network%20application/Deep%2BNeural%2BNetwork%2B-%2BApplication%2Bv8.ipynb)
 
 
 
