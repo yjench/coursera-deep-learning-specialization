@@ -36,7 +36,7 @@ This course covers standard fully connected, feedforward neural networks, with a
 
 ### Course 2. Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization
 
-This course covers practical techniques that improve the training process and model performance of deep neural networks, such as initialization schemes, batch normalization, dropout regularization, and variants of batch gradient descent. It also touches upon multi-class classification and TensorFlow (version 1).
+This course covers techniques that improve the training process and model performance of deep neural networks, such as initialization schemes, batch normalization, regularization methods, and variants of batch gradient descent. It also touches upon multi-class classification and TensorFlow 1.
 
 * [**M1. Practical aspects of deep learning**](https://github.com/yjench/coursera-deep-learning-specialization/tree/master/C2M1%20-%20Practical%20aspects%20of%20deep%20learning)
   * [PA1. Initialization](https://github.com/yjench/coursera-deep-learning-specialization/blob/master/C2M1%20-%20Practical%20aspects%20of%20deep%20learning/Initialization/Initialization.ipynb)
@@ -50,5 +50,10 @@ This course covers practical techniques that improve the training process and mo
 
 
 
-## Course 3.
+### Course 3. Structuring Machine Learning Projects
+
+This standalone course covers practical tips on how to build and ship a successful machine learning/deep learning system. Topics include error evaluation and analysis, ways to address mismatched data distributions, transfer learning, multi-task learning and end-to-end deep learning, etc.
+
+* [**M1. Machine learning strategy 1**](https://github.com/yjench/coursera-deep-learning-specialization/tree/master/C3M1%20-%20ML%20strategy%201)
+* [**M2. Machine learning strategy 2**](https://github.com/yjench/coursera-deep-learning-specialization/tree/master/C3M2%20-%20ML%20strategy%202)
 
